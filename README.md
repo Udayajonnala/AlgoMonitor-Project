@@ -1,27 +1,50 @@
-# AlgoMonitor 🚀
+🚀 AlgoMonitor
 
-AlgoMonitor is a web app that helps students track upcoming coding contests and bookmark important contests.
+AlgoMonitor is a competitive programming tracker that helps users monitor their coding progress and stay updated with upcoming contests across multiple platforms.
 
-## 🔥 Features
-- View upcoming contests
-- View past contests
-- Bookmark contests
-- User login & signup
-- Dark theme UI
+It supports:
 
-## 🛠 Tech Stack
-- React.js
-- JavaScript
-- CSS
-- Codeforces API
+🟡 Codeforces
 
-## ▶️ How to Run
+🟠 LeetCode
 
-1. Clone repository
-2. Run `npm install`
-3. Run `npm start`
+🔵 CodeChef
 
-## 📌 Platforms Supported
-- Codeforces
+✨ Features
+📊 Contest Tracking
+
+View upcoming contests
+
+Browse past contests
+
+Direct contest links
+
+Bookmark contests for quick access
+
+👤 Handle Integration
+
+Users can enter their handles for:
+
+Codeforces
+
+LeetCode
+
+CodeChef
+
+📈 Performance Dashboard
+
+Displays:
+
+✔ Total problems solved
+✔ Platform-wise problem count
+✔ Difficulty distribution (Easy / Medium / Hard)
+✔ Topics covered
+✔ Recent activity insights
+
+🔖 Bookmark System
+
+Save contests to view later
+
+Stored locally for quick access
 
 
